@@ -31,14 +31,3 @@ for algo in algolist :
     The accuracy score using GaussianNB is 79.35 %
     The accuracy score using Perceptron is 61.73 %
     The accuracy score using DecisionTreeClassifier is 98.2 %
-    
-
-
-```python
-
-```
-
-
-```python
-
-```
