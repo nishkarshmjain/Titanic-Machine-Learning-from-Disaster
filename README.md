@@ -11,7 +11,7 @@
 
 
 ```python
-#The above iterations could also be done in a single snippet
+#An iteration of testing all algorithms in a single snippet
 
 
 algolist = [LogisticRegression(), SVC() , RandomForestClassifier() , KNeighborsClassifier() , GaussianNB() , 
